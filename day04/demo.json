@@ -1,0 +1,11 @@
+{
+  "name": "张三",
+  "age": 25,
+  "is_student": false,
+  "scores": [
+    85,
+    92,
+    78
+  ],
+  "address": null
+}
